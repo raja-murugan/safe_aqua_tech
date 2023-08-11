@@ -447,49 +447,6 @@
 </section>
 <!-- Company Section End -->
 
-<!-- Order Section Start -->
-<!-- <section class="order-section">
-    <div class="container order-content">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="order-pic">
-                    <img src="assets/images/1.png" alt="order" />
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="order-title">
-                    <h4>Delivery Order Form</h4>
-                </div>
-                <form action="#">
-                    <div class="form">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6">
-                                <input class="text" placeholder="First name" />
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <input class="text" placeholder="Last name" />
-                            </div>
-                            <div class="col-12">
-                                <input class="text" placeholder="Address" />
-                            </div>
-                            <div class="col-12">
-                                <input class="text" placeholder="Your Need" />
-                            </div>
-                            <div class="col-12">
-                                <input class="area-text" placeholder="How can i help you today !" />
-                            </div>
-                            <div class="col-12">
-                                <button class="order-bttn">Send Message</button>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- Order Section End -->
-
 <!-- Work Section Start -->
 <section class="work-section" style="margin-top: 80px;">
     <div class="container-fluid">
@@ -557,7 +514,7 @@
                         <img src="assets/images/2.png" alt="working" />
                         <figure class="video-box round-os">
                             <a data-fancybox data-width="640" data-height="360" class="video-btn"
-                                href="https://youtu.be/MPUBSZYESgU"><i class="fas fa-play"></i></a>
+                                href="https://youtu.be/1_wPYgXXRns"><i class="fas fa-play"></i></a>
                         </figure>
                     </div>
                 </div>

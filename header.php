@@ -80,7 +80,7 @@
                             <a class="nav-link" href="service.php">Service</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="shop.php">Products</a>
+                            <a class="nav-link" href="product.php">Products</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="contact.php">Contact</a>
