@@ -7,12 +7,10 @@
             <div class="row">
                 <div class="col-12">
                     <div class="banner-title">
-                        <h6>Save 20% this month</h6>
-                        <h1>Purity Beyond <br />Expectation</h1>
+                        <h6>WELCOME TO SAFE AQUA TECH</h6>
+                        <h1>H2O <br> at its purified form</h1>
                         <p>
-                            Green said day they are creature sea thing divided bring whales the the rule <br />
-                            it sea in for.our multiply seas divided. Moveth and female green hath face <br />
-                            in itself living lights two does land place.
+                        Embrace the Refreshing Difference. Elevate Your Hydration with Safe Aqua Tech's Premium Water purifier. Experience Purity in Every Sip
                         </p>
                         <div class="banner-bttn bttn">
                             <a href="about.php" class="btn-1">Learn More</a>
@@ -32,14 +30,11 @@
         <div class="row">
             <div class="col-lg-6 col-md-6">
                 <div class="support-title">
-                    <div class="span">Why Furicane</div>
+                    <div class="span">Why Safe Aqua Tech</div>
                     <h2>Empowering purity in each bottle</h2>
-                    <h5>Restoring the beauty and freshness of all your own upholstered fabrics.</h5>
+                    <h5>Nourish Your Body with the Essence of Pure Water</h5>
                     <p>
-                        Set may after years without form lights them open one are own land she'd fruitful signs upon
-                        over hath set darkness thin male theyre. Second night
-                        one fifth ruitful man beginning subdue let there fifth thing fruit. meat divide may sea unto
-                        ove very cattle divice the meative under
+                    At Safe Aqua Tech, we recognize the essential role of clean and safe drinking water in your well-being. As a pioneering water purifier company, we are committed to delivering top-tier water purifying solutions that adhere to the strictest health and safety criteria.
                     </p>
                 </div>
                 <div class="support-bttn bttn">
@@ -70,9 +65,8 @@
                                     </svg>
                                 </div>
                                 <div class="support-discription">
-                                    <a href="#">Filtration Systems</a>
-                                    <p>Him make two a blessed creeping won male earth form was appear morning
-                                        divided on</p>
+                                    <a href="#">Advanced Filtration Technology</a>
+                                    <p>Cutting-edge tech for water purity. Our systems guarantee health-conscious hydration, sip after sip.</p>
                                 </div>
                             </div>
                         </div>
@@ -97,9 +91,8 @@
                                     </svg>
                                 </div>
                                 <div class="support-discription">
-                                    <a href="#">Local Delivery</a>
-                                    <p>Him make two a blessed creeping won male earth form was appear morning
-                                        divided on</p>
+                                    <a href="#">Direct to Your Home</a>
+                                    <p>Seamless doorstep delivery. Enjoy pure water convenience with our purifiers delivered right to you.</p>
                                 </div>
                             </div>
                         </div>
@@ -124,9 +117,8 @@
                                     </svg>
                                 </div>
                                 <div class="support-discription">
-                                    <a href="#">Healthy Water</a>
-                                    <p>Him make two a blessed creeping won male earth form was appear morning
-                                        divided on</p>
+                                    <a href="#">Enhanced Well-being</a>
+                                    <p>Revitalize your health. Our purifiers nurture vitality, embracing a lifestyle of freshness and wellness.</p>
                                 </div>
                             </div>
                         </div>
@@ -151,9 +143,8 @@
                                     </svg>
                                 </div>
                                 <div class="support-discription">
-                                    <a href="#">Always Support</a>
-                                    <p>Him make two a blessed creeping won male earth form was appear morning
-                                        divided on</p>
+                                    <a href="#">Continuous Support</a>
+                                    <p>Reliable guidance whenever needed. Count on us for assistance in meeting your purified water requirements</p>
                                 </div>
                             </div>
                         </div>
@@ -279,14 +270,10 @@
                 <div class="about-title">
                     <div class="span">About Us</div>
                     <h2>
-                        Protect Yourself From <br />
-                        Harmful Diseases
+                    Empowering Well-being through Pure Water
                     </h2>
                     <p>
-                        May created moved image our dominion created whales own living don stars <br />
-                        unto dry gathering place heaven. Appear he one doin days herb him without <br />
-                        together grass void you're he were dominion they're own appear herb for. <br />
-                        called form marine drivie for had may.
+                    Welcome to Safe Aqua Tech, where we open the door to a realm where purity, safety, and excellence unite to provide you with top-notch water purifying solutions. With a legacy spanning more than 14+ years, we stand as pioneers in the water purifier industry, shaping new benchmarks for quality and innovation.
                     </p>
                 </div>
                 <div class="about-item">
@@ -308,11 +295,9 @@
                         </svg>
                     </div>
                     <div class="about-content">
-                        <a href="#">Satisfied Customer</a>
+                        <a href="#">Empower a Healthier Lifestyle</a>
                         <p>
-                            Him make two a blessed creeping won male earth form was <br />
-                            appear morning divided on dry doesn behold us. Day to over <br />
-                            winged he light multiply tree
+                        With a sense of pride and thankfulness, we've added to your health. Our journey presses on, fueled by the belief in making clean water universally accessible. Join hands with us, share in our mission, and foster a healthier future – one purified drop at a time.
                         </p>
                     </div>
                 </div>
@@ -336,11 +321,9 @@
                         </svg>
                     </div>
                     <div class="about-content">
-                        <a href="#">Standard Product</a>
+                        <a href="#">Witness the Transformation</a>
                         <p>
-                            Him make two a blessed creeping won male earth form was <br />
-                            appear morning divided on dry doesn behold us. Day to over <br />
-                            winged he light multiply tree
+                        Experience the impact of over 8 years of dedication, expertise, and passion. Embrace water purification excellence through Safe Aqua Tech and embrace a life that's healthier and happier. Welcome to a domain where water becomes extraordinary, elevating your well-being.
                         </p>
                     </div>
                 </div>
@@ -455,8 +438,8 @@
                 <div class="work-title">
                     <div class="span">How we work</div>
                     <h2>
-                        Bottled Drinking Water <br />
-                        Filled in Minerals
+                    Crafting Pure Solutions <br />
+                    Our Method in Motion
                     </h2>
                 </div>
                 <div class="work-item">
@@ -476,10 +459,9 @@
                         </svg>
                     </div>
                     <div class="work-content">
-                        <a href="#">Latest Technology</a>
+                        <a href="#">Cutting-Edge Technology</a>
                         <p>
-                            Him make two a blessed creeping won male earth form was appear morning divided on dry
-                            doesn behold us. Day to over winged he light multiply tree
+                        Elevate water purity with the latest innovations, setting new benchmarks for pristine water solutions.
                         </p>
                     </div>
                 </div>
@@ -500,10 +482,9 @@
                         </svg>
                     </div>
                     <div class="work-content">
-                        <a href="#">Filtration Process</a>
+                        <a href="#">Purification Journey</a>
                         <p>
-                            Him make two a blessed creeping won male earth form was appear morning divided on dry
-                            doesn behold us. Day to over winged he light multiply tree
+                        By meticulously filtering, we eliminate impurities, assuring each sip meets the highest safety standards.
                         </p>
                     </div>
                 </div>
@@ -532,7 +513,7 @@
                 <div class="col-12">
                     <div class="testimonial-title">
                         <span>Testimonials</span>
-                        <h2>Happy <span>Customer</span> Says</h2>
+                        <h2>Hear What Our <span>Customer</span> Says</h2>
                     </div>
                 </div>
             </div>
@@ -543,13 +524,11 @@
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
                                     <img src="assets/img/testimonials/testimonial-1.jpg" alt="" />
-                                    <a href="#">Daniel Abraham</a>
+                                    <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
                                 <p>
-                                    From from can't isen hath night tree likeness lesser our together dry face. Give
-                                    light also third dominion brought night you will image
-                                    likeness created the third so heaven creeping unto.
+                                Water tastes incredible! Safe Aqua Tech is a game-changer. No more strange taste. One satisfied customer!
                                 </p>
                             </div>
                         </div>
@@ -557,13 +536,11 @@
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
                                     <img src="assets/img/testimonials/testimonial-2.jpg" alt="" />
-                                    <a href="#">Roser Feshoner</a>
+                                    <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
                                 <p>
-                                    From from can't isen hath night tree likeness lesser our together dry face. Give
-                                    light also third dominion brought night you will image
-                                    likeness created the third so heaven creeping unto.
+                                Never had it this easy. Safe Aqua Tech's purifier delivery simplifies life. Water's a breeze.
                                 </p>
                             </div>
                         </div>
@@ -571,13 +548,11 @@
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
                                     <img src="assets/img/testimonials/testimonial-1.jpg" alt="" />
-                                    <a href="#">Daniel Abraham</a>
+                                    <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
                                 <p>
-                                    From from can't isen hath night tree likeness lesser our together dry face. Give
-                                    light also third dominion brought night you will image
-                                    likeness created the third so heaven creeping unto.
+                                Healthy habit now! Our family adores Safe Aqua Tech's purifier. It's a hit, for me and them!
                                 </p>
                             </div>
                         </div>
@@ -585,13 +560,11 @@
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
                                     <img src="assets/img/testimonials/testimonial-2.jpg" alt="" />
-                                    <a href="#">Roser Feshoner</a>
+                                    <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
                                 <p>
-                                    From from can't isen hath night tree likeness lesser our together dry face. Give
-                                    light also third dominion brought night you will image
-                                    likeness created the third so heaven creeping unto.
+                                Water concerns vanished. Safe Aqua Tech's purifier has us covered. Clear, clean water, no fuss.
                                 </p>
                             </div>
                         </div>
@@ -599,13 +572,11 @@
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
                                     <img src="assets/img/testimonials/testimonial-1.jpg" alt="" />
-                                    <a href="#">Daniel Abraham</a>
+                                    <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
                                 <p>
-                                    From from can't isen hath night tree likeness lesser our together dry face. Give
-                                    light also third dominion brought night you will image
-                                    likeness created the third so heaven creeping unto.
+                                Made the switch and loving it. Safe Aqua Tech's purifier is refreshing and reliable. Two thumbs up!
                                 </p>
                             </div>
                         </div>
@@ -613,13 +584,11 @@
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
                                     <img src="assets/img/testimonials/testimonial-2.jpg" alt="" />
-                                    <a href="#">Roser Feshoner</a>
+                                    <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
                                 <p>
-                                    From from can't isen hath night tree likeness lesser our together dry face. Give
-                                    light also third dominion brought night you will image
-                                    likeness created the third so heaven creeping unto.
+                                Clean water made simple. Safe Aqua Tech's purifier delivery is seamless, water's excellent. Recommending to buddies!
                                 </p>
                             </div>
                         </div>

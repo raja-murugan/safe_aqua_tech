@@ -66,7 +66,7 @@
         <nav class="navbar navbar-expand-lg top-menu">
             <div class="container-fluid">
                 <div class="logo">
-                    <a href="index.php"><img src="assets/img/logo/Logo.png" alt="logo" /></a>
+                    <a href="index.php"><img src="assets/images/logo.png" alt="logo" style="width: 200px;"/></a>
                 </div>
                 <div class="collapse main-nav navbar-collapse" id="navbarSupportedContent-333">
                     <ul class="navbar-nav ml-auto">
