@@ -8,7 +8,7 @@
                 <div class="col-12">
                     <div class="banner-title">
                         <h6>WELCOME TO SAFE AQUA TECH</h6>
-                        <h1>H2O <br> at its purified form</h1>
+                        <h1>H2O at its <br> purified form</h1>
                         <p>
                         Embrace the Refreshing Difference. Elevate Your Hydration with Safe Aqua Tech's Premium Water purifier. Experience Purity in Every Sip
                         </p>
@@ -31,7 +31,7 @@
             <div class="col-lg-6 col-md-6">
                 <div class="support-title">
                     <div class="span">Why Safe Aqua Tech</div>
-                    <h2>Empowering purity in each bottle</h2>
+                    <h2>Empowering purity in each Ddrop</h2>
                     <h5>Nourish Your Body with the Essence of Pure Water</h5>
                     <p>
                     At Safe Aqua Tech, we recognize the essential role of clean and safe drinking water in your well-being. As a pioneering water purifier company, we are committed to delivering top-tier water purifying solutions that adhere to the strictest health and safety criteria.
@@ -358,7 +358,7 @@
                                     transform="translate(-462 -3825)" />
                             </svg>
                         </div>
-                        <h4>100% Purified Water</h4>
+                        <h4>150+ Clients</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
@@ -381,7 +381,7 @@
                                     transform="translate(-777 -3825)" />
                             </svg>
                         </div>
-                        <h4>Nature bottled System</h4>
+                        <h4>19+ Years</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
@@ -401,7 +401,7 @@
                                     transform="translate(-1096 -3823.03)" />
                             </svg>
                         </div>
-                        <h4>Water Certified Company</h4>
+                        <h4>Certified Company</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
@@ -421,7 +421,7 @@
                                     transform="translate(-1412 -3825)" />
                             </svg>
                         </div>
-                        <h4>Deep Filtration Technology</h4>
+                        <h4>100+ Products</h4>
                     </div>
                 </div>
             </div>

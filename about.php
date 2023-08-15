@@ -232,7 +232,7 @@
                                         transform="translate(-462 -3825)" />
                                 </svg>
                             </div>
-                            <h4>100% Purified Water</h4>
+                            <h4>150+ Clients</h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
@@ -255,7 +255,7 @@
                                         transform="translate(-777 -3825)" />
                                 </svg>
                             </div>
-                            <h4>Nature bottled System</h4>
+                            <h4>19+ Years</h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
@@ -276,7 +276,7 @@
                                         transform="translate(-1096 -3823.03)" />
                                 </svg>
                             </div>
-                            <h4>Water Certified Company</h4>
+                            <h4>Certified Company</h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
@@ -296,7 +296,7 @@
                                         transform="translate(-1412 -3825)" />
                                 </svg>
                             </div>
-                            <h4>Deep Filtration Technology</h4>
+                            <h4>1000+ Products</h4>
                         </div>
                     </div>
                 </div>
