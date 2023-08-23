@@ -184,7 +184,7 @@
                         <div class="col-lg-3 col-md-3">
                             <div class="product-block">
                                 <div class="product-item">
-                                    <img src="assets/images/product/100lph.jpg" alt="product" />
+                                    <img src="assets/images/product/3.1.png" alt="product" />
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
@@ -197,7 +197,7 @@
                         <div class="col-lg-3 col-md-3">
                             <div class="product-block">
                                 <div class="product-item">
-                                    <img src="assets\images\product\250LPH.jpg" alt="product" />
+                                    <img src="assets\images\product\3.2.png" alt="product" />
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
@@ -210,7 +210,7 @@
                         <div class="col-lg-3 col-md-3">
                             <div class="product-block">
                                 <div class="product-item">
-                                    <img src="assets/images/product/500LPH.jpg" alt="product" />
+                                    <img src="assets/images/product/3.3.png" alt="product" />
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
@@ -223,7 +223,7 @@
                         <div class="col-lg-3 col-md-3">
                             <div class="product-block">
                                 <div class="product-item">
-                                    <img src="assets/images/product/1000lph.jpg" alt="product" />
+                                    <img src="assets/images/product/3.4.png" alt="product" />
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
@@ -236,7 +236,7 @@
                         <div class="col-lg-3 col-md-3">
                             <div class="product-block">
                                 <div class="product-item">
-                                    <img src="assets/images/product/2000lph.jpg" alt="product" />
+                                    <img src="assets/images/product/3.5.png" alt="product" />
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
