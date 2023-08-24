@@ -260,6 +260,45 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="product-block">
+                                <div class="product-item">
+                                    <img src="assets/images/product/4.2.png" alt="product" />
+                                </div>
+                                <div class="price">
+                                    <div class="price-content">
+                                        <a href="javascript:void(0);">Custom Branding</a>
+                                        <span style="font-size: 16px !important;">Sand Filtration</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="product-block">
+                                <div class="product-item">
+                                    <img src="assets/images/product/4.3.png" alt="product" />
+                                </div>
+                                <div class="price">
+                                    <div class="price-content">
+                                        <a href="javascript:void(0);">Custom Branding</a>
+                                        <span style="font-size: 16px !important;">Sand Filtration and Iron Remover</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="product-block">
+                                <div class="product-item">
+                                    <img src="assets/images/product/4.4.png" alt="product" />
+                                </div>
+                                <div class="price">
+                                    <div class="price-content">
+                                        <a href="javascript:void(0);">ALKARA</a>
+                                        <span style="font-size: 16px !important;">Water Softner</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
