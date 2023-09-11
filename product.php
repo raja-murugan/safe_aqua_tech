@@ -25,6 +25,32 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row">
+                    <div class="col-lg-3 col-md-3">
+                            <div class="product-block">
+                                <div class="product-item">
+                                    <img src="assets/images/product/0.1.png" alt="product" />
+                                </div>
+                                <div class="price">
+                                    <div class="price-content">
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">PUROSIS</a>
+                                        <span>Domestic Water Purifier</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="product-block">
+                                <div class="product-item">
+                                    <img src="assets/images/product/0.2.png" alt="product" />
+                                </div>
+                                <div class="price">
+                                    <div class="price-content">
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">BRIO</a>
+                                        <span>Domestic Water Purifier</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-lg-3 col-md-3">
                             <div class="product-block">
                                 <div class="product-item">
@@ -32,7 +58,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">TAGO</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">TAGO</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -45,7 +71,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">HYDRO CLEAN</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">HYDRO CLEAN</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -58,7 +84,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">AQUA NINE - BLACK </a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">AQUA NINE - BLACK </a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -71,7 +97,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">MDRO - GOLD</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">MDRO - GOLD</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -84,7 +110,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">NOBACT UNDERSINK</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">NOBACT UNDERSINK</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -97,7 +123,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">NO BACT (NORMAL + HOT)</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">NO BACT (NORMAL + HOT)</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -110,7 +136,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">MERLIN MATRIX - COPPER</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">MERLIN MATRIX - COPPER</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -123,7 +149,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">WAVE 5G PRO (HOT & COLD)</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">WAVE 5G PRO (HOT & COLD)</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -136,7 +162,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">ORG TODI</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">ORG TODI</a>
                                         <span>Domestic Water Purifier</span>
                                     </div>
                                 </div>
@@ -149,7 +175,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">WHALE 25 LPH</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">WHALE 25 LPH</a>
                                         <span>Commerical Water Purifier</span>
                                     </div>
                                 </div>
@@ -162,7 +188,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">OPEN SS SKID 50 LPH</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">OPEN SS SKID 50 LPH</a>
                                         <span>Commerical Water Purifier</span>
                                     </div>
                                 </div>
@@ -175,7 +201,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">50 LPH SS AUTO</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">50 LPH SS AUTO</a>
                                         <span>Commerical Water Purifier</span>
                                     </div>
                                 </div>
@@ -188,7 +214,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">100 LPH OPEN SYSYTEM</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">100 LPH OPEN SYSYTEM</a>
                                         <span>Industrial Water Purifier</span>
                                     </div>
                                 </div>
@@ -201,7 +227,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">250 LPH OPEN SYSYTEM</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">250 LPH OPEN SYSYTEM</a>
                                         <span>Industrial Water Purifier</span>
                                     </div>
                                 </div>
@@ -214,7 +240,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">500 LPH OPEN SYSYTEM</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">500 LPH OPEN SYSYTEM</a>
                                         <span>Industrial Water Purifier</span>
                                     </div>
                                 </div>
@@ -227,7 +253,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">1000 LPH OPEN SYSYTEM</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">1000 LPH OPEN SYSYTEM</a>
                                         <span>Industrial Water Purifier</span>
                                     </div>
                                 </div>
@@ -240,7 +266,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">2000 LPH OPEN SYSYTEM</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">2000 LPH OPEN SYSYTEM</a>
                                         <span>Industrial Water Purifier</span>
                                     </div>
                                 </div>
@@ -253,7 +279,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">ALKARA</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">ALKARA</a>
                                         <span style="font-size: 16px !important;">Water Softener & Water
                                             Conditioner</span>
                                     </div>
@@ -267,7 +293,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">Custom Branding</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">Custom Branding</a>
                                         <span style="font-size: 16px !important;">Sand Filtration</span>
                                     </div>
                                 </div>
@@ -280,7 +306,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">Custom Branding</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">Custom Branding</a>
                                         <span style="font-size: 16px !important;">Sand Filtration and Iron Remover</span>
                                     </div>
                                 </div>
@@ -293,7 +319,7 @@
                                 </div>
                                 <div class="price">
                                     <div class="price-content">
-                                        <a href="javascript:void(0);">ALKARA</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043&text=Hi there, If this product is available." target="_blank">ALKARA</a>
                                         <span style="font-size: 16px !important;">Water Softner</span>
                                     </div>
                                 </div>
