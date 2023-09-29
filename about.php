@@ -322,7 +322,7 @@
                         <div class="item">
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
-                                    <img src="assets/img/testimonials/testimonial-1.png" alt="" />
+                                    <img src="assets/img/testimonials/1.png" alt="" />
                                     <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
@@ -334,7 +334,7 @@
                         <div class="item">
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
-                                    <img src="assets/img/testimonials/testimonial-2.png" alt="" />
+                                    <img src="assets/img/testimonials/2.png" alt="" />
                                     <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
@@ -346,7 +346,7 @@
                         <div class="item">
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
-                                    <img src="assets/img/testimonials/testimonial-1.png" alt="" />
+                                    <img src="assets/img/testimonials/3.png" alt="" />
                                     <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
@@ -358,7 +358,7 @@
                         <div class="item">
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
-                                    <img src="assets/img/testimonials/testimonial-2.png" alt="" />
+                                    <img src="assets/img/testimonials/4.png" alt="" />
                                     <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
@@ -370,7 +370,7 @@
                         <div class="item">
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
-                                    <img src="assets/img/testimonials/testimonial-1.png" alt="" />
+                                    <img src="assets/img/testimonials/5.png" alt="" />
                                     <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
@@ -382,7 +382,7 @@
                         <div class="item">
                             <div class="testimonial-slider">
                                 <div class="testimonial-pic d-flex">
-                                    <img src="assets/img/testimonials/testimonial-2.png" alt="" />
+                                    <img src="assets/img/testimonials/6.png" alt="" />
                                     <a href="#">Happy Customer</a>
                                     <i class="ti-quote-right"></i>
                                 </div>
