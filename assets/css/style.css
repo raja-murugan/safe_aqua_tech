@@ -122,7 +122,7 @@ li {
   text-transform: capitalize;
   display: inline-block;
   padding: 18px 25px;
-  width: 180px;
+  width: 200px;
   text-decoration: none;
   border: 1px solid #63666b;
   transition: 0.5s linear;
@@ -1334,7 +1334,6 @@ form .top-input {
   display: block;
   width: 100%;
   background-color: rgb(0 50 162 / 70%);
-  padding: 10.3% 0%;
 }
 
 
@@ -1799,13 +1798,13 @@ form .top-input {
   position: relative;
   font-family: "Muli";
   font-size: 15px;
-  background: #1086ff;
+  background: #ffa922;
   color: #ffffff;
   font-weight: 600;
   text-transform: capitalize;
   display: inline-block;
   padding: 16px 25px;
-  width: 180px;
+  width: 200px;
   text-decoration: none;
   transition: 0.5s linear;
   text-align: center;
@@ -1826,7 +1825,7 @@ form .top-input {
   left: 0;
   width: 150%;
   height: 100%;
-  background: #ffa922;
+  background: #1086ff;
   z-index: -1;
   -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
   transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
@@ -3322,7 +3321,7 @@ form .top-input {
   color: #7f8183;
   border: 1px solid #e0e3e7;
   width: 100%;
-  padding: 18px 20px;
+  padding: 14px 18px;
   margin-top: 20px;
   outline: none;
 }
@@ -4865,7 +4864,36 @@ top: 0 !important;
         box-shadow: 0 0 0 20px rgba(0, 0, 0, 0);
   }
 }
-  
+.one{
+  background-color: #e7e0e0;
+  opacity: 1;
+}
+.button1 {
+  background-color: #ffa922;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.text{
+  color: white;
+  font-size: 20px;
+}
+.two{
+  color: #1086ff;
+  text-align: center
+}
+.four{
+  width: 100%;
+  height: 60px;
+  padding:10px 20px;
+  border-radius: 8px;
+}
+
   /*********************************
   /* Banner Section End
   *********************************/

@@ -7,10 +7,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="page-title text-center">
-                                <h2>RO Installation Near Me</h2>
+                                <h2>Water Purifiers</h2>
                                 <a href="index.php">Home</a>
                                 <span>|</span>
-                                <a href="javascript:void(0)">R.O Installation Near Me</a>
+                                <a href="javascript:void(0)">Water Purifiers</a>
                             </div>
                         </div>
                     </div>

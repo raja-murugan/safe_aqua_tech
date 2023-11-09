@@ -3,19 +3,57 @@
 <!-- Banner Start -->
 <section class="banner-section">
     <div class="banner-bg">
-        <div class="container">
+        <div class="container two" style="max-width: 100%;">
             <div class="row">
-                <div class="col-12">
-                    <div class="banner-title">
-                        <h6>WELCOME TO SAFE AQUA TECH</h6>
+                <div class="col-8 text-left pt-5">
+                    <div class="banner-title pt-5 ml-3">
+                        <h6 class="pt-3">WELCOME TO SAFE AQUA TECH</h6>
                         <h1>H2O at its <br> purified form</h1>
                         <p>
-                        Embrace the Refreshing Difference. Elevate Your Hydration with Safe Aqua Tech's Premium Water purifier. Experience Purity in Every Sip
+                        Embrace the Refreshing Difference. Elevate Your Hydration with Safe Aqua Tech's Premium Water purifier.<br> Experience Purity in Every Sip
                         </p>
                         <div class="banner-bttn bttn">
                             <a href="about.php" class="btn-1">Learn More</a>
                             <a href="contact.php" class="btn-2">Contact Us</a>
                         </div>
+                    </div>
+                </div>
+                <div class="col-4 one pt-3 pb-3">
+                    <h5 class="two mr-4">Your Gateway to Quality Water <span style ="color: #ffa922;">Providing Vital Details</span> for Your Purified Lifestyle.</h5>
+                        <form action="#">
+                            <div class="form">
+                                <div class="row">
+                                    <div class="col-9 pt-2 pl-5 ml-5">
+                                        <input class="four" type="text" name="name" placeholder="Name *"required>
+                                    </div>
+                                    <div class="col-9 pl-5 ml-5 pt-3">
+                                        <input class="four" type="email" name="email" placeholder="Email">
+                                    </div>
+                                    <div class="col-9 pl-5 ml-5 pt-3">
+                                        <input class="four" type="text" name="phone" placeholder="Phone Number *"required>
+                                    </div>
+                                    <div class="col-9 pl-5 ml-5 pt-3">
+                                        <input class="four" type="text" name="area" placeholder="Area">
+                                    </div>
+                                    <br>
+                                    <div class="col-12 pl-5 text-center">
+                                        <button class="order-bttn btn-2 button1">Submit</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                            <h6 class="two pt-4">
+                                Want to reach us <span style ="color: #ffa922;"> directly </span> through WhatsApp?
+                            </h6>
+                            <div class="col-12 text-center ml-3">
+                                <button class="order-bttn">
+                                    <span>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919344330043" target="_blank" class="text-white">
+                                            Chat On WhatsApp
+                                        </a>
+                                    </span>
+                                </button>
+                            </div>
                     </div>
                 </div>
             </div>
