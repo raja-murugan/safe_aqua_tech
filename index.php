@@ -1,12 +1,27 @@
 <?php include('header.php') ?>
-
+<style>
+    @media screen and (max-width: 600px) 
+    {
+        div.hide 
+        {
+        display: none;
+        }
+    }
+    @media only screen and (max-width: 600px)
+    {
+        [class="card"] 
+        {
+        width: 100%;
+        }
+    }
+</style> 
 <!-- Banner Start -->
 <section class="banner-section">
     <div class="banner-bg">
         <div class="container two" style="max-width: 100%;">
             <div class="row">
                 <div class="col-8 text-left pt-5">
-                    <div class="banner-title pt-5 ml-3">
+                    <div class="banner-title hide pt-5 ml-3">
                         <h6 class="pt-3">WELCOME TO SAFE AQUA TECH</h6>
                         <h1>H2O at its <br> purified form</h1>
                         <p>
@@ -18,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-4 one pt-3 pb-3">
+                <div class="col-12 col-sm-4 card pt-3 pb-3">
                     <h5 class="two mr-4">Your Gateway to Quality Water <span style ="color: #ffa922;">Providing Vital Details</span> for Your Purified Lifestyle.</h5>
                         <form action="#">
                             <div class="form">
