@@ -22,7 +22,7 @@
         <!-- Blog Item Start -->
         <section class="blog-single item-section">
             <div class="container">
-                <h2>Importance of Water Purifiers</h2>
+                <h2>Importance of Water Purifier</h2>
                 <div class="row">
                     <div class=" col-12 pt-3">
                         <p>
@@ -39,11 +39,11 @@
                     </div>    
                 </div>
                 <hr>
-                <h3>Domestic Water Purifier</h3>
+                <h3 class="pt-3">Domestic Water Purifier</h3>
                 <div class="row">
                     <div class="col-5 blog-single-item">
                         <div class="blog-pic">
-                            <img src="assets/img/blog-page/1.jpg" alt="blog" class="">
+                            <img src="assets/img/water-purifier/1.jpg" alt="blog" class="">
                         </div>
                     </div>
                     <div class=" col-7 pt-5">
@@ -58,7 +58,7 @@
                 </div>
                 <hr>
                 
-                <h3>Commercial Water Purifier</h3>
+                <h3 class="pt-3">Commercial Water Purifier</h3>
                 <div class="row">
                     <div class=" col-7 pt-5">
                         <p>
@@ -69,18 +69,21 @@
                             Invest in a Safe Aqua Tech commercial water purifier and ensure the provision of clean and healthy water for your business.    
                         </p>
                     </div>
-                    <div class="col-5 blog-single-item">
+                    <div class="col-5 text-center blog-single-item">
                         <div class="blog-pic">
-                            <img src="assets/img/blog-page/1.jpg" alt="blog" class="">
+                        <picture>
+                        <img src="assets/img/water-purifier/2.jpg" alt="blog" class="">
+                                </picture>
+                            
                         </div>
                     </div>
                 </div>
                 <hr>
-                <h3>Industrial Water Purifier</h3>
+                <h3 class="pt-3">Industrial Water Purifier</h3>
                 <div class="row">
                     <div class="col-5 blog-single-item">
                         <div class="blog-pic">
-                            <img src="assets/img/blog-page/1.jpg" alt="blog" class="">
+                            <img src="assets/img/water-purifier/3.jpg" alt="blog" class="">
                         </div>
                     </div>
                     <div class=" col-7 pt-5">

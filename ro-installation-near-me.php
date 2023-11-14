@@ -27,8 +27,9 @@ ul{
         <section class="blog-single item-section">
             <div class="container">
                 <h2 class="text-left">Our Experts Experience in Words :</h2>
+            
                 <div class="row">
-                    <div class=" col-10 pt-3">
+                    <div class=" col-10 pt-3 ">
                         <ul class="point">
                             <li class="point_one">Our installation process is carried out by a team of experienced professionals who have a deep understanding of water purification technology. 
                                 They will ensure that your water purifier is installed correctly and efficiently, minimizing any disruptions to your daily routine.

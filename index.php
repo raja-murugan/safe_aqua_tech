@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-4 card pt-3 pb-3">
+                <div class="col-12 col-sm-4 card pt-3 pb-3" style="background-image: url(assets/images/banner/6.jpg);">
                     <h5 class="two mr-4">Your Gateway to Quality Water <span style ="color: #ffa922;">Providing Vital Details</span> for Your Purified Lifestyle.</h5>
                         <form action="#">
                             <div class="form">
