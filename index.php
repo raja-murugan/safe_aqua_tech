@@ -35,7 +35,7 @@
                 </div>
                 <div class="col-12 col-sm-4 card pt-3 pb-3" style="background-image: url(assets/images/banner/6.jpg);">
                     <h5 class="two mr-4">Your Gateway to Quality Water <span style ="color: #ffa922;">Providing Vital Details</span> for Your Purified Lifestyle.</h5>
-                        <form action="#">
+                        <form action="homemail.php" method="post">
                             <div class="form">
                                 <div class="row">
                                     <div class="col-9 pt-2 pl-5 ml-5">

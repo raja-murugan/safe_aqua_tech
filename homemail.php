@@ -4,9 +4,8 @@ require 'mail/PHPMailerAutoload.php';
 
 $name = $_POST["name"];
 $email = $_POST["email"];
-$mobile = $_POST["mobile"];
-$subject = $_POST["subject"];
-$message = $_POST["message"];
+$phone = $_POST["phone"];
+$area = $_POST["area"];
 
 $mail = new PHPMailer;
 
@@ -27,9 +26,8 @@ $mail->isHTML(true);                                  // Set email format to HTM
 $mail->Subject = 'mail from webite';
 $mail->Body    = " Name: {$name}<br>
 Email: {$email}<br>
-Mobile Number: {$mobile}</br>
-Subject: {$suubject}<br>
-Message: {$message}";
+Mobile Number: {$phone}</br>
+Area: {$area}";
 // $masil->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
 if(!$mail->send()) {

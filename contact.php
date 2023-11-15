@@ -55,7 +55,7 @@
                     </div>
                 </div>
                 <div class="col-lg-7">
-                    <form action="#"><form class="contact_form" action="mail.php" method="post" data-aos="fade-left"
+                    <form class="contact_form" action="mail.php" method="post" data-aos="fade-left"
 								data-aos-duration="1000">
                         <div class="contact-page-form">
                             <div style="display: flex;">
@@ -67,7 +67,7 @@
                             <input class="text col-lg-6" name="subject" style="margin-left: 5px;" placeholder="Enter Subject *" />
                             </div>
 
-                            <textarea name="message" class="subject" name="subject" placeholder="How Can I Help You?"></textarea>
+                            <textarea name="message" class="subject" placeholder="How Can I Help You?"></textarea>
 
                             <button class="submit-btn" type="submit" value="Send Mail" name="submit">Send Message</button>
                         </div>
