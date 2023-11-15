@@ -24,10 +24,10 @@ $mail->addAddress('muruganraja335@gmail.com');
 
 $mail->isHTML(true);                                  // Set email format to HTML
 
-$mail->Subject = 'mail from webite';
+$mail->Subject = 'Enquiry from Submission mail from Safe Aqua Tech';
 $mail->Body    = " Name: {$name}<br>
 Email: {$email}<br>
-Mobile Number: {$mobile}</br>
+Mobile Number: {$mobile}<br>
 Subject: {$suubject}<br>
 Message: {$message}";
 // $masil->AltBody = 'This is the body in plain text for non-HTML mail clients';
