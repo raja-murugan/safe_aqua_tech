@@ -52,7 +52,7 @@
                                     </div>
                                     <br>
                                     <div class="col-12 pl-5 text-center">
-                                        <button class="order-bttn btn-2 button1">Submit</button>
+                                        <button class="order-bttn btn-2 button1" type="submit" >Submit</button>
                                     </div>
                                 </div>
                             </div>
