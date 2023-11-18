@@ -12,7 +12,7 @@
     <meta name="description" content="Shop now to find the best water purifier for your needs and experience pure, safe, and great-tasting water every day!">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.safeaquatech.com/">
-    <meta property="og:title" content="Your Health Matters: Prioritizing Wellness with Our Water Purifiers">
+    <meta property="og:title" content="Your Health Matters: Prioritizing Wellness with Our Water Purifiers. ">
     <meta property="og:description" content="Shop now to find the best water purifier for your needs and experience pure, safe, and great-tasting water every day!">
     <meta property="og:image" content="https://www.safeaquatech.com/assets/images/banner/banner2.jpg">
 
