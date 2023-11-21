@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -32,15 +31,9 @@
     <!-- Main Style -->
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
-
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKG884Q7"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    
     <!-- Preloader -->
     <div id="preloader">
         <div id="status">
@@ -50,17 +43,6 @@
 
     <!-- Header Start -->
     <header class="header">
-        <!-- Google Tag Manager -->
-            <script>
-                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                })
-                (window,document,'script','dataLayer','GTM-PKG884Q7');
-            </script>
-        <!-- End Google Tag Manager -->
-
         <div class="header-top">
             <div class="container-fluid">
                 <div class="head-menu d-flex justify-content-center">
